@@ -3,26 +3,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: 'UCL Computer Science project supervision'
 description: 'CS Undergraduate project supervision.'
 domain: nicholsons.github.io
 url: https://nicholsons.github.io
 baseurl: /about/
 permalink: pretty
-
 # About / contact
 author:
   name: Sarah Sanders
   github_username:  nicholsons
   email: sarah.sanders@ucl.ac.uk
-
 # Build settings
 markdown: GFM
 remote_theme:  artemsheludko/flexible-jekyll
 plugins:
   - jekyll-paginate
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
