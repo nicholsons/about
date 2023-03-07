@@ -3,8 +3,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'UCL Computer Science project supervision'
-description: 'CS Undergraduate project supervision.'
+title: UCL Computer Science project supervision
+description: CS Undergraduate project supervision.
 domain: nicholsons.github.io
 url: https://nicholsons.github.io
 baseurl: /about/
