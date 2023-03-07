@@ -16,7 +16,6 @@ author:
   email: sarah.sanders@ucl.ac.uk
 # Build settings
 markdown: GFM
-remote_theme:  artemsheludko/flexible-jekyll
 plugins:
   - jekyll-paginate
 # Exclude from processing.
