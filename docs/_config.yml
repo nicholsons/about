@@ -6,11 +6,9 @@
 
 title: 'UCL Computer Science project supervision'
 description: 'CS Undergraduate project supervision.'
-
-domain: nicholsons.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://nicholsons.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /about/      # place folder name if the site is served in a subfolder
-paginate: 5
+domain: nicholsons.github.io
+url: https://nicholsons.github.io
+baseurl: /about/
 permalink: pretty
 
 # About / contact
