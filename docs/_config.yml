@@ -15,7 +15,7 @@ author:
 # Build settings
 markdown: GFM
 plugins:
-  - jekyll-paginate
+- jekyll-paginate
 
   # Exclude from processing.
   # The following items will not be processed, by default.
@@ -39,7 +39,6 @@ plugins:
   #  - gulpfile.js
   #  - package.json
   #  - yarn.lock
-
 
 # Custom vars
 version: 1.1.0
