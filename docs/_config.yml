@@ -4,15 +4,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UCL Computer Science project supervision
-description: >- # this means to ignore newlines until "baseurl:"
-  CS Undergraduate project supervision.
+title: 'UCL Computer Science project supervision'
+description: 'CS Undergraduate project supervision.'
 
 domain: nicholsons.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://nicholsons.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /about/      # place folder name if the site is served in a subfolder
-paginate:            5
-permalink:           pretty
+paginate: 5
+permalink: pretty
 
 # About / contact
 author:
@@ -34,15 +33,17 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+ exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - gulpfile.js
+   - package.json
+   - yarn.lock
