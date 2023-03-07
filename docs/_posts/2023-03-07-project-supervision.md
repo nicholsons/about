@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Project supervision
+title: About me
 ---
 
-
-
-### About me
 
 I have a background in the technology industry in project and programme management, mainly for software development projects; and have also managed application development teams. I hold a BSc in Management Science; a PGCE in Computing Education; an MBA and an MSc in Computer Science.
 
