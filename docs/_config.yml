@@ -12,7 +12,7 @@ locale: en-UK
 title: "Sarah Sanders, UCL Computer Science"
 description: "Undergraduate project supervision."
 url: "https://nicholsons.github.io"
-logo: "/images/so-simple-site-logo-2.png"
+#logo: "/images/so-simple-site-logo-2.png"
 baseurl: /about/
 date_format: "%B %-d, %Y"
 read_time: false
