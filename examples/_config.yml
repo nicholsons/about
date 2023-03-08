@@ -6,7 +6,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: nicholsons/so-simple-theme
 
 locale: en-UK
 title: "So Simple"
