@@ -5,11 +5,11 @@ last_modified_at: 2023-03-07T00:00:00-00:00
 
 I have one idea outlined below.
 
+> Note: You will need to be prepared to think about how to solve the following problem yourself; in particular the modelling part.
+
 ### PGTA modelling and dashboard
 
-PGTA = Post Graduate Teaching Assistant. PGTAs are typically, but not always, PhD students at UCL or other London universities. They may also be Research Fellows or Research Associates.
-
-> You will need to be prepared to think about how to solve the following problem yourself; in particular the modelling part.
+A Post Graduate Teaching Assistant (PGTA) is typically, but not always, a PhD student at UCL or another London university. They may also be Research Fellows or Research Associates.
 
 #### Problem statement
 
@@ -25,7 +25,8 @@ There are many challenges with the approach, however this project is specificall
 
 1. **Demand modelling**. Consider the profile for CS modules such as number of students enrolled, assessment type (coursework/exam), class types (lecture, lab, tutorial), programming language or other skills needed, number of lecturers etc. Some of this data exists, other data you would need to find out yourself or determine how to deal with the NaNs. Given this data, is it possible to develop a model that allows us to predict the PGTA hours for a given module (or module type) in a year, based on the predicted number of students taking the module? Can such a model be used to provide a baseline to model the impact of introducing new modules on the PGTA supply? Can the model be used to predict future demand based on varying students numbers?
 
-For this part there is no guidance about how to approach the problem. If you have some data analysis; statistics or machine learning background then you would ideally propose ideas for how to develop the model.
+    For this part there is no guidance about how to approach the problem. If you have some data analysis; statistics or machine learning background then you would ideally propose ideas for how to develop the model.
+
 2. **Data dashboard**. Develop a PGTA data dashboard that will provide staff with information such as: PGTA demand versus supply; display over time the demand and supply of PGTA. This should give insight into current and histric data. It may also be useful as an interface to the model to predict demand.
 
-For this part; I would prefer the dashboard to be developed using Python Plotly dash or streamlit as I would need to maintain it myself longer term.
+    For this part; I would prefer the dashboard to be developed using Python Plotly dash or streamlit as I would need to maintain it myself longer term.
