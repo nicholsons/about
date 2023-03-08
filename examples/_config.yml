@@ -1,0 +1,91 @@
+# Welcome to Jekyll!
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# theme: jekyll-theme-so-simple
+remote_theme: nicholsons/so-simple-theme
+
+locale: en-UK
+title: "So Simple"
+description: "A simple Jekyll theme for words and pictures."
+baseurl: "/about/"
+url: "https://nicholsons.github.io"
+logo: "/images/so-simple-site-logo.png"
+date_format: "%-d %B, %Y"
+read_time: true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+permalink: /:categories/:title/
+markdown: GFM
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: /page:num/
+
+# Search
+#search_full_content: false
+
+# Taxonomy pages
+#category_archive_path: "/categories/#"
+#tag_archive_path: "/tags/#"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+plugins:
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-feed
+  - jekyll-paginate
+#  - jekyll-redirect-from
+
+# Collections
+#collections:
+#  recipes:
+#    output: true
+#    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: false
+      share: false
+
+# Site Author
+Sarah Sanders:
+  name: Sarah Sanders
+  picture: /images/sarah.jpg
+  github_username: nicholsons
+  email: sarah.sanders@ucl.ac.uk
+
+# Footer Links
+footer_links:
+  - title: GitHub
+    url: https://github.com/nicholsons
+    icon: fab fa-github-square
