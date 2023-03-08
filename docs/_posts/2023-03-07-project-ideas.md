@@ -3,15 +3,13 @@ title: "Project ideas for 2023-24"
 last_modified_at: 2023-03-07T00:00:00-00:00
 ---
 
-<div class="message">
-I prefer to supervise application development projects. I would welcome any suggestions you have for projects as I do not have any research projects to offer.
-</div>
-
-I have one idea which is outlined below. If you are interested in this, you will need to be prepared to think about how to solve the problem yourself.
+I have one idea outlined below.
 
 ### PGTA modelling and dashboard
 
 PGTA = Post Graduate Teaching Assistant. PGTAs are typically, but not always, PhD students at UCL or other London universities. They may also be Research Fellows or Research Associates.
+
+> You will need to be prepared to think about how to solve the following problem yourself; in particular the modelling part.
 
 #### Problem statement
 
