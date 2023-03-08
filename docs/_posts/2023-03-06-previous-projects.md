@@ -3,7 +3,7 @@ title: "Previous projects"
 last_modified_at: 2023-03-06T00:00:00-00:00
 ---
 
-### Previous project topics
+Previous project topics:
 
 - (2022-23) Solution for managing the allocation of datasets to students for a university module
 - (2021-22) ReShare Mobile Application for community sharing (IXN project)
