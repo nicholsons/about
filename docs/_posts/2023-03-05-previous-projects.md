@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Previous projects"
+last_modified_at: 2023-03-06T00:00:00-00:00
 ---
 
 ### Previous project topics
@@ -12,5 +13,3 @@ layout: default
 - (2019-20) Web app exploring the optimal way to help engineering students to learn & practice data science
 - (2018-19) University attendance tracking
 - (2018-19) MoneyMeals: an ‘Eat Out’ mobile app for students (IXN project)
-
-[back](./)

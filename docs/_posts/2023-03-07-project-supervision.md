@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "About me"
+last_modified_at: 2023-03-08T00:00:00-00:00
 ---
 
 <div class="message">
@@ -13,5 +14,3 @@ I am not a research academic; so I do not have any research interests or project
 I currently teach two modules of an IEP minor for engineering students: [COMP0035 Applied software engineering](https://www.ucl.ac.uk/module-catalogue/modules/applied-software-engineering-COMP0035) and [COMP0034 Application programming for data science](https://www.ucl.ac.uk/module-catalogue/modules/application-programming-for-data-science-COMP0034)
 
 I would describe myself as a generalist rather than a specialist and so know a little about quite a lot of things; rather than any one topic in depth! The modules I teach cover: Python Flask (for REST API, web apps, machine learning model deployment), Plotly Dash (data visualisation), Python, pandas, git, GitHub, PyCharm, VS Code, requirements analysis, UML, design patterns, Agile methods, database design, testing (unit tests, Selenium web driver, GitHub Actions).
-
-[back](./)

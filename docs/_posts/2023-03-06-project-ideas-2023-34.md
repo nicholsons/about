@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Project ideas for 2023-24"
+last_modified_at: 2023-03-07T00:00:00-00:00
 ---
 
 <div class="message">
