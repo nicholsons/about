@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "About me"
+last_modified_at: 2023-03-09T00:00:00-00:00
 ---
 
 <div class="message">

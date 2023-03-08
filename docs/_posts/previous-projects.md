@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Previous projects"
+last_modified_at: 2023-03-06T00:00:00-00:00
 ---
 
 ### Previous project topics
