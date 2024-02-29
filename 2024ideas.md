@@ -32,12 +32,14 @@ To what extent can chat-GPT help?
 - Can it assess what the benefits are of 3rd normal versus Boyce-Codd or higher?
 
 
-# Using AI diagram generators
+## 2. Using AI diagram generators
+
+To what extent is AI useful in designing a software application?
 
 May be hard to automate this.
 
-
 Research and find free tools that students could use to generate UML diagrams.
+https://theresanaiforthat.com/s/class+diagram/
 
 Write tutorial on how to create say a class diagram.
 
@@ -45,4 +47,7 @@ Give requirements for a REST API
 
 Ask students to draw a class diagram.
 
-Create 2-3 auto generated versions. Compare them to the students work.
+Create 2-3 auto generated versions. Compare them to the students work. Critically review against design principles?
+
+## 3. AI to generate infographics/charts
+To what extent can AI tools be used to create infographics and charts for a Dash or Streamlit app?
