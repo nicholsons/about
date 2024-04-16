@@ -1,10 +1,12 @@
 ---
 title: "Previous projects"
-last_modified_at: 2023-03-06T00:00:00-00:00
+last_modified_at: 2024-16-06T00:00:00-00:00
 ---
 
 Previous project topics:
 
+- (2023-24) PGTA modelling and dashboard
+- (2023-24) Using AI to learn Python coding in UCL undergraduate modules
 - (2022-23) Solution for managing the allocation of datasets to students for a university module
 - (2021-22) ReShare Mobile Application for community sharing (IXN project)
 - (2020-21) Covid data visualisation (IXN project)
