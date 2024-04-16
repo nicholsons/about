@@ -1,6 +1,6 @@
-# Ideas for 2024
+# Ideas for 2024/25
 
-Initial thoughts, not yet researched.
+Initial thoughts, not yet researched so these may not be suitable!
 
 ## 1. AI in teaching SQLite database design to beginner students
 
@@ -41,7 +41,7 @@ May be hard to automate this.
 Research and find free tools that students could use to generate UML diagrams.
 https://theresanaiforthat.com/s/class+diagram/
 
-Write tutorial on how to create say a class diagram.
+Write tutorial on how to create diagram, e.g. UML class diagram
 
 Give requirements for a REST API
 
@@ -49,5 +49,9 @@ Ask students to draw a class diagram.
 
 Create 2-3 auto generated versions. Compare them to the students work. Critically review against design principles?
 
-## 3. AI to generate infographics/charts
+
+## 3. AI to generate infographics/charts for dashboards
+
+This is a very vague concept, may not be suitable or feasible.
+
 To what extent can AI tools be used to create infographics and charts for a Dash or Streamlit app?
