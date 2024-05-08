@@ -1,6 +1,6 @@
 ---
 title: "Project ideas for 2024-25"
-last_modified_at: 2023-03-07T00:00:00-00:00
+last_modified_at: 2024-08-05T00:00:00-00:00
 ---
 
 # Ideas for 2024/25
@@ -28,15 +28,18 @@ At the end of this the students should:
 ### Undergraduate dissertation suggestion
 
 2 weeks is not much time to learn the material and then apply it to their coursework project. Students have to learn
-several other topics as well during the term and apply them to their coursework. 
+several other topics as well during the term and apply them to their coursework.
 
-The aim of this undergraduate dissertation project is to investigate the extent to which chat-GPT could be used to help students learn more
-quickly/effectively; and also to what extent it could help them with their coursework. You should then use the results of the investigation to propose/design activities that would help students to make effective use of chat-GPT to learn the topic. 
+The aim of this undergraduate dissertation project is to investigate the extent to which chat-GPT could be used to help
+students learn more
+quickly/effectively; and also to what extent it could help them with their coursework. You should then use the results
+of the investigation to propose/design activities that would help students to make effective use of chat-GPT to learn
+the topic.
 
 ### Possible approach and solution
 
 - A GitHub repo that students access?
-- Guidance on using chat-GPT specifically to learn the database concepts 
+- Guidance on using chat-GPT specifically to learn the database concepts
 - Create activities; and possibly provide unit tests that will allow students to test their solutions
 - The activities should be able to be used with different datasets
 
@@ -73,3 +76,41 @@ Give requirements for a Python web app, e.g. a simple REST API
 Ask students to draw the relative diagram themselves (ie not using AI).
 
 Create 2-3 auto generated versions. Compare them to the students work. Critically review against design principles?
+
+## 3. Redesigning a Google apps solution (Google sheets, forms. apps script (JavaScript) and Microsoft PowerApps)
+
+### The problem
+
+The CS department recruits 200 PGTAs and around 30 Undergraduate interns to support its teaching each year. Last year
+there were over 500 applications that had to be handled and over 300 contract requests and changes. The budget and
+recruitment process is managed by me, and I also teach two large modules. The volume of changes and the number of emails
+involved in the process is overwhelming for one person (i.e. for me!). If the amount of admin time can be reduced, I
+could use the time gained on more value-add activities such as providing training for departmental PGTAs and
+undergraduate teaching interns.
+
+I inherited a solution based on Google sheets and forms. This works well as the Google
+ecosystem is free to use and there is lots of documentation. Over the last two years I've extended the original
+sheets / forms solution using Google apps script and a simple Google apps script web front end. The solution has grown
+organically though and there is a lot of repetition and inefficiency. There is also one area that is significantly
+limiting. To automate email notifications uses Google gmail and is limited to 100 per day, this is not sufficient for
+the needs of the recruitment and is also not integtated with UCL mail so cannot be used. If a free solution can be found
+to automate email notifications from UCL email when changes are made in the Google based system this would save
+significant effort and improve the experience for applicants, module leaders, HR and me. I would also like to be able to
+auto push data from Sheets to Excel (in Teams/Sharepoint) for HR to access. It may be possible to then use
+Teams/Sharepoint as the basis to push out email notifications using Power Apps.
+
+### Project idea
+
+Look at how good software design practices can be applied to refactor and improve the solution e.g.
+
+- Measure the current performance: response times; assess the efficiency (or otherwise) of the algorithms. Use software
+  tools to do this.
+- Diagram the current 'spaghetti' design; draw diagrams that reflect its current structure/architecture. You should be
+  able to find tools that will automat this.
+- Having identified the weaknesses, consider how the design can be improved while keeping the solution within the
+  current platform (Google apps script, Google sheets, Google forms).
+- Design and implement the changes, and then measure the revised solution again and compare the differences with the
+  original solution to assess the improvement.
+- Ideally, you should also find and implement a solution to the email notifications issue and sharing of data between
+  Google and Microsoft platforms. There is no funding so any solution must use free features in Google/Microsoft Power
+  Apps.
