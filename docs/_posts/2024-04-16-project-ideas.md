@@ -36,6 +36,8 @@ quickly/effectively; and also to what extent it could help them with their cours
 of the investigation to propose/design activities that would help students to make effective use of chat-GPT to learn
 the topic.
 
+UPDATE: 9/7/24 This is too simplistic, gen-AI handles all of this. More challenging may be to create something custom for the course that integrates the AI.
+
 ### Possible approach and solution
 
 - A GitHub repo that students access?
@@ -63,6 +65,8 @@ The activities must incorporate the use of AI as far as possible e.g.
 - Can it assess what the benefits are of 3rd normal versus Boyce-Codd or higher?
 
 ## 2. Using AI to generate software design diagrams
+
+UPDATE: 9/7/24 This idea is not appropriate. Solutions exist, e.g. Mermaid model in chatGPT.
 
 Project concept: Investigate the extent to which AI is useful in designing a software application?
 
@@ -114,3 +118,24 @@ Look at how good software design practices can be applied to refactor and improv
 - Ideally, you should also find and implement a solution to the email notifications issue and sharing of data between
   Google and Microsoft platforms. There is no funding so any solution must use free features in Google/Microsoft Power
   Apps.
+
+## 4. Design a no-cost custom chatbot for COMP0035 or COMP0034
+
+Can you design and develop a chatbot that helps students in COMP0035 and/or COMP0034 to achieve the learning objectives
+and coursework?
+
+Course content relative to software engineering and data science continually changes. This is true for the materials
+available in Moodle that are specific the course, as well as the huge
+volume of freely available content available through searches (library, internet, chatbots etc). This poses a challenge
+for students who want to know what the most recent information on any given topic is; whether the content is relevant to
+the syllabus of the module; and critically for students, whether that content is relevant to their coursework. Some of
+the questions to consider:
+
+- how do student find the most relevant materials for a course?
+- how do students quickly find relevant material in Moodle?
+- how do students ensure that materials they find outside Moodle are relevant to the course syllabus and outcomes?
+- how do students find content that is relevant to a given coursework assignment?
+
+There is no funding available for this project, nor any access to high performance computing. A further challenge is to
+design and develop a solution using only
+free tools and hardware resources.
