@@ -1,6 +1,6 @@
 ---
 title: "Project ideas for 2025-26"
-last_modified_at: 2024-09-07T00:00:00-00:00
+last_modified_at: 2025-03-06T00:00:00-00:00
 ---
 
 # Undergraduate final year project ideas for 2025/26

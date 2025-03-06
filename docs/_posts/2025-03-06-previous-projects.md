@@ -1,6 +1,6 @@
 ---
 title: "Previous projects"
-last_modified_at: 2025-06-03T00:00:00-00:00
+last_modified_at: 2025-03-06T00:00:00-00:00
 ---
 
 Previous project topics:
