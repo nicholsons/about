@@ -1,10 +1,12 @@
 ---
 title: "Previous projects"
-last_modified_at: 2024-16-06T00:00:00-00:00
+last_modified_at: 2025-06-03T00:00:00-00:00
 ---
 
 Previous project topics:
 
+- (2024-25) How can genAI be used in the teaching of front-end web development skills?
+- (2024-25) (IXN project) MX/MAS Connector
 - (2023-24) PGTA modelling and dashboard
 - (2023-24) Using AI to learn Python coding in UCL undergraduate modules
 - (2022-23) Solution for managing the allocation of datasets to students for a university module
